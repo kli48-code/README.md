@@ -8,8 +8,8 @@
 3. finally this 
 
 - hi
--how 
--are you?
+- how 
+- are you?
 
 'code' 
 
