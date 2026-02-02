@@ -19,5 +19,5 @@
 
 ![Fish](https://github.com/user-attachments/assets/a999b990-1079-4451-a2ed-d253bfc6344d)
 
-[Google Site link]([https://sites.google.com/stevens.edu/group8-site])
+[Google Site link](https://sites.google.com/stevens.edu/group8-site)
 
